@@ -5,7 +5,7 @@ FLUSH PRIVILEGES;
 CREATE DATABASE rmit_store_db;
 USE rmit_store_db;
 
-CREATE TABLE stores (
+CREATE TABLE store (
   id mediumint(8) unsigned NOT NULL auto_increment, 
   Name varchar(255) default NULL, 
   Price varchar(255) default NULL, 

@@ -1,0 +1,42 @@
+{
+  "name": "team-6/assignment-3-source",
+  "description": "A PHP project source for Assignment 3",
+  "type": "project",
+  "require-dev": {
+    "phpunit/phpunit": "^10.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ec2User\\Ec2User\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Khang Nguyen",
+      "email": "s3929994@rmit.edu.vn"
+    },
+    {
+      "name": "Huy Pham",
+      "email": "s3926681@rmit.edu.vn"
+    },
+    {
+      "name": "Quang Nguyen",
+      "email": "s3927039@rmit.edu.vn"
+    },
+    {
+      "name": "Duong Vo",
+      "email": "s3821186@rmit.edu.vn"
+    },
+    {
+      "name": "Dong Pham",
+      "email": "s3817726@rmit.edu.vn"
+    }
+  ],
+  "keywords": [
+    "php",
+    "composer",
+    "assignment",
+    "team-6"
+  ],
+  "require": {}
+}
